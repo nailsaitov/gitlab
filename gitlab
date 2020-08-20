@@ -1,0 +1,2 @@
+FROM gitlab/gitlab-ce:latest
+--shm-size=1G
